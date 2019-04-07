@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PocketNews</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_all_ch_text">All Channels</string>
+    <string name="tab_favourites_text">Favourites</string>
+    <string name="tab_search_text">Search</string>
+    <string name="news">Show News</string>
+    <string name="channels">Show Channels</string>
+</resources>
