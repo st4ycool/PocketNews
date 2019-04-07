@@ -1,1 +1,1 @@
-"# PocketNews2" 
+PocketNews
